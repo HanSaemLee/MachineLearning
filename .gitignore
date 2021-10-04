@@ -2,9 +2,9 @@
 __pycache__/
 *.py[cod]
 *$py.class
-Measurement_info
-Measurement_item_info
-Measurement_summary
+Measurement_info.csv
+Measurement_item_info.csv
+Measurement_summary.csv
 
 # C extensions
 *.so
